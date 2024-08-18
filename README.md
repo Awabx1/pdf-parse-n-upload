@@ -1,1 +1,1 @@
-# pdf-parse-n-upload
+If you are building a chatbot and want to upload data to a vector database i.e. PineCone then this is the first step
